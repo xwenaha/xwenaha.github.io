@@ -6,14 +6,13 @@
 	.st0{fill:#FDFCEC;}
 	.st1{fill:#E5EDF0;}
 	.st2{fill:none;stroke:#CBC9BC;stroke-linejoin:round;}
-	.st3{fill:#939598;}
-	.st4{font-family:'HelveticaNeue-Bold';}
-	.st5{font-size:5.1197px;}
-	.st6{fill:#A8AAAD;}
-	.st7{display:none;}
-	.st8{display:inline;fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
-	.st9{display:inline;fill:none;stroke:#EC2227;stroke-width:3;stroke-miterlimit:10;}
-	.st10{display:inline;fill:#405B54;}
+	.st3{display:none;}
+	.st4{display:inline;fill:#939598;}
+	.st5{font-family:'HelveticaNeue-Bold';}
+	.st6{font-size:5.1197px;}
+	.st7{display:inline;fill:#A8AAAD;}
+	.st8{display:inline;fill:none;stroke:#EC2227;stroke-width:3;stroke-miterlimit:10;}
+	.st9{display:inline;fill:#405B54;}
 </style>
 <g>
 	<path class="st0" d="M423-54"/>
@@ -571,31 +570,22 @@
 		776.9,-1.8 774.5,11.2 773.2,18 774.3,26.9 778.2,30.2 778.5,35.7 781.4,39.5 780.7,42.3 783,46.4 787.6,54.5 787.9,60.7 
 		796.6,78.6 797,90.8 797.7,101 	"/>
 </g>
-<g>
-	<text transform="matrix(1 0 0 1 593.0767 771.5918)" class="st3 st4 st5">Kleifarvatn</text>
-	<text transform="matrix(1 0 0 1 506.8916 793.6055)" class="st3 st4 st5">Seltún Geothermal Area</text>
-	<circle class="st6" cx="588.4" cy="773.2" r="3"/>
-	<circle class="st6" cx="571.3" cy="790" r="3"/>
+<g class="st3">
+	<text transform="matrix(1 0 0 1 593.0767 771.5918)" class="st4 st5 st6">Kleifarvatn</text>
+	<text transform="matrix(1 0 0 1 506.8916 793.6055)" class="st4 st5 st6">Seltún Geothermal Area</text>
+	<circle class="st7" cx="588.4" cy="773.2" r="3"/>
+	<circle class="st7" cx="571.3" cy="790" r="3"/>
 </g>
-<g id="trail-path" class="st7">
-	<path class="st8" d="M629.4,665.3c-12.6,1-12.6,15.6-21,24.9c-3.3,0.8-6.5,1.6-9.8,2.4c0,2,0,3.9,0,5.9
-		c-7.1,5.7-14.1,9.7-22.3,13.5c-24,11.2-51,19.8-73.4,33.7c-18.8,11.6-56.5,67.8-25.6,62.1c-21.7,4,35-14.9,10.6,5.3
-		c10.1,5.9,9.3-4.8,17.6-5.3c3.4-0.2,14.6,8.3,22.2,8.3c8.2,0,16.4,0.2,24.6,0c14.9-0.3,33.6,3.5,47.9-1.1
-		c15.8-5.1,30.9-14,46.5-3.3c21.3,14.5,26.3,13.2,50.9,7.2c22-5.3,32.3-7,37.8-30.4c2.3-9.7-3.2-13.1,8.6-13.7
-		c6.6-0.3,16.3-14.8,21.1-19.8c14.6-15.3,17.8-21,29.5,0.4c2.8,5.2,14.6,2.2,20.5,5.1c7.6,3.8,13-18.4,14.1-24.4
-		c3.1-15.5,27.5-22.6,36.8-31.9c10.6-10.6,28.3-25.7,42.2-30.3c18-6,21.3-25.7,37.1-33.6c13.4-6.7,37.1-16.5,40.5-35.2
-		c2.2-12.1-9.5-29.3,1.4-39.2c16.1-14.5,33.4,10.1,47.2-11.7c0.2-0.4-220.6-69-189.9,16.9c36.4,101.6-211.3,91.8-211,91.3"/>
+<g id="camera-path" class="st3">
+	<path class="st8" d="M658.9,630.7c0,0-280.5,125.2-251.4,200.1c15.5,39.7,127.7-9,169.5-17.2c53.1-10.5,156.5-46.3,204.4-71.7
+		c69.9-37.1,178-209.9,254.3-188.7c95.8,26.7,132.3,375.2,132.3,375.2"/>
 </g>
-<g id="camera-path" class="st7">
-	<path class="st9" d="M658.9,630.7c0,0-280.5,125.2-251.4,200.1c15.5,39.7,127.7-9,169.5-17.2c53.1-10.5,156.5-46.3,204.4-71.7
-		c69.9-37.1,178-209.9,254.3-188.7c95.8,26.7-358.3,71.8-358.3,71.8"/>
-</g>
-<g id="points" class="st7">
-	<circle id="Reykjavík" class="st10" cx="630" cy="663.6" r="5.8"/>
-	<circle id="Reykjanesta" class="st10" cx="479.7" cy="807.1" r="5.8"/>
-	<circle id="Krísuvíkurbjarg" class="st10" cx="578" cy="816" r="5.8"/>
-	<circle id="Hveragerði" class="st10" cx="781.4" cy="741.9" r="5.8"/>
-	<circle id="Gullfoss" class="st10" cx="1035.6" cy="553.2" r="5.8"/>
-	<circle id="Eyjafjallajökull" class="st10" cx="1169.5" cy="930.5" r="5.8"/>
+<g id="points" class="st3">
+	<circle id="Reykjavík" class="st9" cx="630" cy="663.6" r="5.8"/>
+	<circle id="Reykjanesta" class="st9" cx="415.7" cy="839.4" r="5.8"/>
+	<circle id="Krísuvíkurbjarg" class="st9" cx="578" cy="816" r="5.8"/>
+	<circle id="Hveragerði" class="st9" cx="781.4" cy="741.9" r="5.8"/>
+	<circle id="Gullfoss" class="st9" cx="1035.6" cy="553.2" r="5.8"/>
+	<circle id="Eyjafjallajökull" class="st9" cx="1169.5" cy="930.5" r="5.8"/>
 </g>
 </svg>
