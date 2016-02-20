@@ -578,16 +578,17 @@
 		"/>
 </g>
 <g id="points" class="st3">
-	<circle id="Reykjavík" class="st9" cx="630" cy="663.6" r="5.8"/>
-	<circle id="Reykjanesta" class="st9" cx="489.7" cy="816" r="5.8"/>
-	<circle id="Krísuvíkurbjarg" class="st9" cx="935.3" cy="804.4" r="5.8"/>
-	<circle id="Hveragerði" class="st9" cx="1008.7" cy="538.6" r="5.8"/>
-	<circle id="Gullfoss" class="st9" cx="873.6" cy="461.2" r="5.8"/>
 	<circle id="Eyjafjallajökull" class="st9" cx="529" cy="262.4" r="5.8"/>
+	<circle id="Gullfoss" class="st9" cx="873.6" cy="461.2" r="5.8"/>
+	<circle id="Hveragerði" class="st9" cx="1008.7" cy="538.6" r="5.8"/>
+	<circle id="Krísuvíkurbjarg" class="st9" cx="935.3" cy="804.4" r="5.8"/>
+	<circle id="Reykjanesta" class="st9" cx="489.7" cy="816" r="5.8"/>
+	<circle id="Reykjavík" class="st9" cx="630" cy="663.6" r="5.8"/>
 </g>
 <g id="trail-path" class="st3">
-	<path class="st10" d="M644,657.8c0,0,74.7-62.8,152-68.5S731.3,511,731.3,511l-22.7-100.8l-138-26.5L532,262.4l107.3-32L770.9,315
-		l57.8,58.8l48,87.5l132.1,77.4V569l-22.1,94.6l8,88.7l-59.3,52.1l-44.7,5.8l-56-19.2l-26-31.3l-70.7,4L658.7,787L584,798.6
-		l-94.3,11.6l-10-37.9l32.5-22.6l43.2-14.7l49.1-26l26.2-43.8"/>
+	<path class="st10" d="M644,657.8c72.7-50.5,120.8-65.1,152-68.5c6.3-0.7,20.1-1.9,22.6-9.1c7.2-20.9-87.3-69.2-87.3-69.2
+		l-22.7-100.8l-138-26.5L532,262.4l107.3-32L770.9,315l57.8,58.8l48,87.5l132.1,77.4V569l-22.1,94.6l8,88.7l-59.3,52.1l-44.7,5.8
+		l-56-19.2l-26-31.3l-70.7,4L658.7,787L584,798.6l-94.3,11.6l-10-37.9l32.5-22.6l43.2-14.7l49.1-26c8.7-14.6,17.5-29.2,26.2-43.8
+		C579.1,614.5,527.6,563.7,476,513"/>
 </g>
 </svg>
